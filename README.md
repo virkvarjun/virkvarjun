@@ -1,5 +1,5 @@
 # hey, i'm arjun 👋
-<!--
+
 i'm a student at the university of waterloo studying software engineering with a concentration in machine learning and statistics. 
 
 i'm a current researcher in the applications of machine learning in biomedical computer vision. 
